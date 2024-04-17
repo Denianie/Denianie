@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denilson Ala</h1>
 <h3 align="center">A passionate systems engineer from Peru who loves turning data into insights and simplifies everyday tasks with smart automation.</h3>
 
-- 🌱 I’m currently learning **BigQuery**
+- 🌱 I’m currently learning **BigQuery** and **English**
 
 - 💬 Ask me about **R**
 
